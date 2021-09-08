@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-memo-summary/static/css/main.409734e2.chunk.css",
+    "main.js": "/react-memo-summary/static/js/main.7aa5b11d.chunk.js",
+    "main.js.map": "/react-memo-summary/static/js/main.7aa5b11d.chunk.js.map",
+    "runtime-main.js": "/react-memo-summary/static/js/runtime-main.ce40532e.js",
+    "runtime-main.js.map": "/react-memo-summary/static/js/runtime-main.ce40532e.js.map",
+    "static/js/2.dd35ad96.chunk.js": "/react-memo-summary/static/js/2.dd35ad96.chunk.js",
+    "static/js/2.dd35ad96.chunk.js.map": "/react-memo-summary/static/js/2.dd35ad96.chunk.js.map",
+    "static/js/3.75c49781.chunk.js": "/react-memo-summary/static/js/3.75c49781.chunk.js",
+    "static/js/3.75c49781.chunk.js.map": "/react-memo-summary/static/js/3.75c49781.chunk.js.map",
+    "index.html": "/react-memo-summary/index.html",
+    "static/css/main.409734e2.chunk.css.map": "/react-memo-summary/static/css/main.409734e2.chunk.css.map",
+    "static/js/2.dd35ad96.chunk.js.LICENSE.txt": "/react-memo-summary/static/js/2.dd35ad96.chunk.js.LICENSE.txt",
+    "static/media/lightFunc.7a67d9cd.png": "/react-memo-summary/static/media/lightFunc.7a67d9cd.png",
+    "static/media/lightFuncWithUseCallback.0e454133.png": "/react-memo-summary/static/media/lightFuncWithUseCallback.0e454133.png",
+    "static/media/memo.956518ca.png": "/react-memo-summary/static/media/memo.956518ca.png",
+    "static/media/memoWithUseCallback.bdb42bd9.png": "/react-memo-summary/static/media/memoWithUseCallback.bdb42bd9.png",
+    "static/media/noMemo.1358357c.png": "/react-memo-summary/static/media/noMemo.1358357c.png",
+    "static/media/noMemoWithUseCallback.aee45bcb.png": "/react-memo-summary/static/media/noMemoWithUseCallback.aee45bcb.png",
+    "static/media/superHeavyFunc.4e321b91.png": "/react-memo-summary/static/media/superHeavyFunc.4e321b91.png",
+    "static/media/superHeavyFunc2.d2ac5b73.png": "/react-memo-summary/static/media/superHeavyFunc2.d2ac5b73.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce40532e.js",
+    "static/js/2.dd35ad96.chunk.js",
+    "static/css/main.409734e2.chunk.css",
+    "static/js/main.7aa5b11d.chunk.js"
+  ]
+}
